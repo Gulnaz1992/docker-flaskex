@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img src="https://raw.githubusercontent.com/anfederico/Flaskex/master/media/flaskex-logo.png" width="128px"><p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,3 +35,6 @@ python app.py
 
 ## Contributing
 Please take a look at our [contributing](https://github.com/anfederico/Flaskex/blob/master/CONTRIBUTING.md) guidelines if you're interested in helping!
+=======
+# docker-flaskex
+>>>>>>> b192f4e3f9745fca73e33c18110f01b066320311
